@@ -1,0 +1,10 @@
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\bin\Debug\Say Hello.exe.config
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\bin\Debug\Say Hello.exe
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\bin\Debug\Say Hello.pdb
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say Hello.csprojAssemblyReference.cache
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say_Hello.Form1.resources
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say_Hello.Properties.Resources.resources
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say Hello.csproj.GenerateResource.cache
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say Hello.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say Hello.exe
+C:\Users\qixqi\source\repos\Say Hello\Say Hello\obj\Debug\Say Hello.pdb
