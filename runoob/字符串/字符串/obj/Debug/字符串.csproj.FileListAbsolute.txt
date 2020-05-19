@@ -1,0 +1,7 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\bin\Debug\字符串.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\bin\Debug\字符串.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\bin\Debug\字符串.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\obj\Debug\字符串.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\obj\Debug\字符串.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\obj\Debug\字符串.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\字符串\字符串\obj\Debug\字符串.pdb

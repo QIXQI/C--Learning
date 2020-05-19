@@ -1,0 +1,6 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\枚举\枚举\bin\Debug\枚举.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\枚举\枚举\bin\Debug\枚举.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\枚举\枚举\bin\Debug\枚举.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\枚举\枚举\obj\Debug\枚举.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\枚举\枚举\obj\Debug\枚举.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\枚举\枚举\obj\Debug\枚举.pdb

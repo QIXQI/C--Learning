@@ -1,0 +1,7 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\bin\Debug\可空类型.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\bin\Debug\可空类型.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\bin\Debug\可空类型.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\obj\Debug\可空类型.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\obj\Debug\可空类型.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\obj\Debug\可空类型.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\可空类型\可空类型\obj\Debug\可空类型.pdb

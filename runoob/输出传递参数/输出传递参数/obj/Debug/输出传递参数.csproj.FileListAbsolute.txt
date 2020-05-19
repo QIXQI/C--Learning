@@ -1,0 +1,7 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\bin\Debug\输出传递参数.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\bin\Debug\输出传递参数.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\bin\Debug\输出传递参数.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\obj\Debug\输出传递参数.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\obj\Debug\输出传递参数.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\obj\Debug\输出传递参数.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\输出传递参数\输出传递参数\obj\Debug\输出传递参数.pdb

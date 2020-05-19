@@ -1,0 +1,7 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\bin\Debug\结构体.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\bin\Debug\结构体.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\bin\Debug\结构体.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\obj\Debug\结构体.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\obj\Debug\结构体.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\obj\Debug\结构体.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\结构体\结构体\obj\Debug\结构体.pdb

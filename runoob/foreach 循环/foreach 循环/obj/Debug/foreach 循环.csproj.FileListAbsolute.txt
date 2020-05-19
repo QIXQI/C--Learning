@@ -1,0 +1,7 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\bin\Debug\foreach 循环.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\bin\Debug\foreach 循环.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\bin\Debug\foreach 循环.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\obj\Debug\foreach 循环.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\obj\Debug\foreach 循环.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\obj\Debug\foreach 循环.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\foreach 循环\foreach 循环\obj\Debug\foreach 循环.pdb

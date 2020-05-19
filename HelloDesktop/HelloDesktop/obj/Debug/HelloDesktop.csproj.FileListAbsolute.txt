@@ -1,0 +1,10 @@
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\bin\Debug\HelloDesktop.exe.config
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\bin\Debug\HelloDesktop.exe
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\bin\Debug\HelloDesktop.pdb
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.Properties.Resources.resources
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.csproj.GenerateResource.cache
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.exe
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.pdb
+C:\Users\qixqi\Desktop\hello\C#\HelloDesktop\HelloDesktop\obj\Debug\HelloDesktop.Form1.resources

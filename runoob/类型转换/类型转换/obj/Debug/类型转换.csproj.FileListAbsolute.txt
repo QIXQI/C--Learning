@@ -1,0 +1,7 @@
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\bin\Debug\类型转换.exe.config
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\bin\Debug\类型转换.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\bin\Debug\类型转换.pdb
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\obj\Debug\类型转换.csprojAssemblyReference.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\obj\Debug\类型转换.csproj.CoreCompileInputs.cache
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\obj\Debug\类型转换.exe
+C:\Users\qixqi\Desktop\hello\C#\runoob\类型转换\类型转换\obj\Debug\类型转换.pdb
